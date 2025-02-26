@@ -1,4 +1,13 @@
-## Hi there 👋
+## ```Pre-AI software developer learning to vibe code.  ```
+
+
+   - Markdown is underrated at the moment, soon there will be browsable markdown websites to navigate the vast knowledge contained in AI models
+   - Currently focused on image processing techniques in TensorFlowJS and TinyGrad.    
+   - I believe self-hosted models are the future!
+  
+### Stuff I'm building at the moment
+ React Front-end sample - [MemeSeek](memeseek.com/editor)  
+ Command-line OPENAI-api terminal(I use this everyday!) - [grok_cmd](https://github.com/bcwaters/grok_cmd)
 
 <!--
 **bcwaters/bcwaters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
