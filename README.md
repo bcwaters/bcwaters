@@ -6,7 +6,7 @@
    - I believe self-hosted models are the future!
   
 ### Stuff I'm building at the moment
- React Front-end sample - [MemeSeek](memeseek.com/editor)  the backend is still brittle, so keep the website hush hush.
+ React Front-end sample - [MemeSeek](memeseek.com/editor)  the backend is still brittle, so keep the website hush hush.  
  Command-line OPENAI-api terminal(I use this everyday!) - [grok_cmd](https://github.com/bcwaters/grok_cmd)
 
 <!--
