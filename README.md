@@ -7,7 +7,7 @@
   
 ### Stuff I'm building at the moment
  React Front-end sample - [MemeSeek](memeseek.com/editor)  the backend is still brittle, so keep the website hush hush.  
- Command-line OPENAI-api terminal(I use this everyday!) - [grok_cmd](https://github.com/bcwaters/grok_cmd)
+ Command-line OPENAI-api terminal(I use this everyday!) - [ai_cmd](https://github.com/bcwaters/grok_cmd)
 
  ### I am accepting employment invitations.  Engaging and interesting projects only.
   - I will accept `contracted offers < 1 year` for cookie cutter enterprise code. Gotta pay for hosting and access LLM  somehow!
