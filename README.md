@@ -10,7 +10,7 @@
  Command-line OPENAI-api terminal(I use this everyday!) - [ai_cmd](https://github.com/bcwaters/grok_cmd)
 
  ### I am accepting employment invitations.  Engaging and interesting projects only.
-  - I will accept `contracted offers < 1 year` for cookie cutter enterprise code. Gotta pay for hosting and access LLM  somehow!
+  - I will accept `contracted offers < 1 year` for cookie cutter enterprise code. Gotta pay for hosting and access to LLM  somehow!
 
 <!--
 **bcwaters/bcwaters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
