@@ -10,7 +10,9 @@
  Command-line OPENAI-api terminal(I use this everyday!) - [ai_cmd](https://github.com/bcwaters/ai_cmd)  
  You can try generating documents with from a prompt with it here: [ai_cmd_doc_builer](http://35.84.188.46:3002/)
 
- ### I am accepting employment invitations.  Engaging and interesting projects only.
+ ### I am accepting employment invitations.  Engaging and interesting projects preferred.
+  - An internal tooling team would be amazing.  Specialized functionality with a set of technical users.
+  - Any role that gets me closer to working directly with large LLMs
   - I will accept `contracted offers < 1 year` for cookie cutter enterprise code. Gotta pay for hosting and access to LLM  somehow!
 
 <!--
