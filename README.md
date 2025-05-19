@@ -13,8 +13,8 @@
   *Keep the website hush-hush until I launch!*  
 - **Command-line OPENAI-API Terminal:** [ai_cmd](https://github.com/bcwaters/ai_cmd)  
   - I use this every day!  
-  - Try generating documents from a prompt: [ai_cmd_doc_builder](https://zingpng.com)  
-  - Or test the terminal in your browser: [xterm browser access](https://zingpng.com/xterm)  
+  - Try generating documents from a prompt: [ai_cmd_doc_builder](https://54.214.19.182)  
+  - Or test the terminal in your browser: [xterm browser access](https://54.214.19.182/xterm)  
 
 ## Seeking Engaging Work
 
