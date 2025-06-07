@@ -9,7 +9,7 @@
 
 ## Stuff I'm Building
 
-- **React Front-end Sample:** [MemeSeek](memeseek.com/editor)  
+- **React Front-end Sample:** [MemeSeek](http://www.memeseek.com/editor)  
   *Keep the website hush-hush until I launch!*  
 - **Command-line OPENAI-API Terminal:** [ai_cmd](https://github.com/bcwaters/ai_cmd)  
   - I use this every day!  
