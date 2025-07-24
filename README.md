@@ -1,9 +1,6 @@
 # Developer/Builder
 
 ## Stuff I'm Building
-
-- **Meme Template Editor:** [MemeSeek](http://www.memeseek.com/editor)
-  - private repo at the moment
 - **Ephemeral email addresses:** [MinusMail](http://www.minusmail.com/) <br/>
     - Code and architecture found in the [repo](https://github.com/bcwaters/minusmail)  
 
@@ -18,3 +15,5 @@
 - **National Fire Incident Graphs:** [repo](https://github.com/bcwaters/fire_project)  [Website](https://zingpng.com)
    - Parsing a pdf containing National Fire Incident data to generate graphs.  This is a work around due to gated apis which cannot be easily accessed. 
 
+- **Meme Template Editor:** [MemeSeek](http://www.memeseek.com/editor)
+  - Work in progress
