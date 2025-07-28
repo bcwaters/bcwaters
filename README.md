@@ -9,11 +9,10 @@
   - Try generating documents from a prompt: [online demo](http://54.214.19.182)  
   - Or test the terminal in your browser: [xterm browser access](http://minusmail.com/xterm)
  
-- **National Fire Incident Graphs:** [repo](https://github.com/bcwaters/fire_project)  [Website](https://zingpng.com)
+- **National Fire Incident Graphs:** [repo](https://github.com/bcwaters/fire_project)  [Website](https://www.wildfiregraphs.com)
    - Parsing a pdf containing National Fire Incident data to generate graphs.  This is a work around due to gated apis which cannot be easily accessed.
  
 - **Command-line unixtip:** [unixtip](https://github.com/bcwaters/unixtip)
-   - Get command suggestions for CHATGPT in the terminal and execute them. 
+   - I use this sometimes to get command suggestions for CHATGPT in the terminal and execute them. 
 
-- **Meme Template Editor:** [MemeSeek](http://www.memeseek.com/editor)
-  - Work in progress (disabled downloading images)
+
