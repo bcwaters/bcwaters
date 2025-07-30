@@ -6,8 +6,7 @@
 
 - **Command-line OPENAI-API Terminal:** [ai_cmd](https://github.com/bcwaters/ai_cmd)
   - I use this every day!  
-  - Try generating documents from a prompt: [online demo](http://54.214.19.182)  
-  - Or test the terminal in your browser: [xterm browser access](http://minusmail.com/xterm)
+  - Test the terminal in your browser: [xterm browser access](http://minusmail.com/xterm)
  
 - **National Fire Incident Graphs:** [repo](https://github.com/bcwaters/fire_project)  [Website](https://www.wildfiregraphs.com)
    - Parsing a pdf containing National Fire Incident data to generate graphs.  This is a work around due to gated apis which cannot be easily accessed.
